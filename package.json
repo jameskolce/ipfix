@@ -1,0 +1,15 @@
+{
+  "name": "ipfix",
+  "version": "1.0.0",
+  "description": "Infix to Postfix translator and calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "James Kolce",
+  "license": "MIT",
+  "devDependencies": {
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.2"
+  }
+}
