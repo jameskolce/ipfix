@@ -1,4 +1,4 @@
 module.exports = {
-  calculate: require('lib/calculate'),
-  transform: require('lib/transform')
+  calculate: require('./lib/calculate'),
+  transform: require('./lib/transform')
 };

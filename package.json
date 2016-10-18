@@ -1,6 +1,6 @@
 {
   "name": "ipfix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Infix to Postfix translator and calculator",
   "main": "index.js",
   "scripts": {
